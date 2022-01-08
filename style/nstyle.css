@@ -1,3 +1,30 @@
+/* index css */
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+/* .clr{
+    background-color: aqua;
+}
+.crl{
+    background-color: blueviolet;
+} */
+.hel{
+    height: 300px;
+}
+.ls{
+    list-style: none;
+    /* color: black; */
+    font-size: x-large;
+}
+.png{
+    width: 50px;
+}
+.s-con{
+    height: 430px;
+    width: 100%;
+}
+
+/* next css */
 .bg-backclr{
     background-color: #f5f4f4;
 }
@@ -101,6 +128,13 @@
 .card1-but{
     border: 2px gainsboro solid;
 }
+
+/* footer */
 .f-clr{
-    background-color: #dbd7d7;
+    background-color:#dddedf;
+}
+.social-media{
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
 }
