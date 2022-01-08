@@ -1,0 +1,103 @@
+.bg-backclr{
+    background-color: #f5f4f4;
+}
+.loc-but{
+    border: 0.8px solid #ebebe0;
+    box-shadow: 0px 1px 3px 1px #ebebe0;
+    color: #6c757d;
+    background-color: #f0f2f5;
+}
+.nav1-txt0{
+    font-weight: 1;
+    font-family: 'Ubuntu', sans-serif;
+    color: #6c757d;  
+    font-size: 11px;
+}
+.nav1-txt1{
+    font-family: 'Ubuntu', sans-serif;  
+    font-size: 13px;
+}
+.nav2-clr{
+    background: linear-gradient(
+        135deg
+        , #eb543b 0%,#fbbf3b 100%);
+}
+.nav-link{
+    color: white;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: small;
+}
+.inp{
+    width: 35%;
+    border: 1px solid #cacdd0 ;  
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    background-color: transparent ;
+    outline-color: 1px solid #eb543b;
+}
+.inp-but{
+    background: linear-gradient(
+        135deg
+        , #eb543b 0%,#fbbf3b 100%);
+        font-size: 15px;
+        border: 1px solid #cacdd0 ;
+        color: white;
+}
+.ban1{
+    background-color:#fbbf3b;
+    height: auto;
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    padding: 0;
+}
+
+.ban1-head{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25px;
+    font-weight: 200;
+    color: white;
+
+}
+.ban1-box1{
+    height: 100px;
+    width: 120px;
+    background-color: black;
+    text-decoration: none;
+    border-radius: 8px;
+}
+.ing{
+    margin-left: 29px;
+}
+.ban1-box1-txt{
+    color: white;
+    font-size: 13px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: lighter;
+}
+.ban2{
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+}
+.ban2-box1{
+    height: auto;
+    width: 380px;
+    border-radius: 15px;
+    padding-left: 4px;
+    padding: 8px;
+}
+.card{
+    border-radius: 8px;
+}
+.card-btn{
+    border: honeydew;
+    background-color: transparent;
+}
+.card-rate{
+    padding-top: 7px;
+}
+.card1-but{
+    border: 2px gainsboro solid;
+}
